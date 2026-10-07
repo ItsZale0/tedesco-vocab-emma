@@ -1,23 +1,8 @@
 {
-  "version": 3,
+  "version": 4,
   "generatedAt": "2026-10-07T09:03:35Z",
   "guida": null,
-  "words": [
-    {
-      "id": "custom_0_30793",
-      "german": "die Katze",
-      "italian": "il gatto",
-      "example": "Die Katze schläft.",
-      "article": null,
-      "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
-      "tags": [
-        "custom"
-      ],
-      "archived": false
-    }
-  ],
+  "words": [],
   "lessons": [],
   "lezioneCorrente": 1
 }
