@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "generatedAt": "2026-10-27T17:55:17Z",
+  "version": 6,
+  "generatedAt": "2026-10-27T18:25:17Z",
   "guida": null,
   "words": [
     {
@@ -37,6 +37,20 @@
       "italian": "curriculum",
       "example": "Mein Lebenslauf ist aktuell.",
       "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_3_31988",
+      "german": "die Pampa ",
+      "italian": "il nulla, campagne ",
+      "example": "",
+      "article": "die ",
       "pronunciation": null,
       "level": "A1",
       "lesson": 0,
