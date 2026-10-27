@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "generatedAt": "2026-10-27T18:25:17Z",
+  "version": 7,
+  "generatedAt": "2026-10-27T18:40:17Z",
   "guida": null,
   "words": [
     {
@@ -51,6 +51,958 @@
       "italian": "il nulla, campagne ",
       "example": "",
       "article": "die ",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_4_45332",
+      "german": "Vorstellungsgespräch",
+      "italian": "colloquio di lavoro",
+      "example": "Das Vorstellungsgespräch ist am Montag.",
+      "article": "das",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_5_75280",
+      "german": "Stelle",
+      "italian": "posto di lavoro",
+      "example": "Ich suche eine Stelle in Brixen.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_6_63678",
+      "german": "Arbeitgeber",
+      "italian": "datore di lavoro",
+      "example": "Mein Arbeitgeber ist eine Klinik.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_7_75833",
+      "german": "Arbeitnehmer",
+      "italian": "dipendente",
+      "example": "Der Arbeitnehmer hat Rechte.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_8_19546",
+      "german": "Ausbildung",
+      "italian": "formazione",
+      "example": "Meine Ausbildung dauert drei Jahre.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_9_64780",
+      "german": "Weiterbildung",
+      "italian": "formazione continua",
+      "example": "Ich mache eine Weiterbildung.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_10_3656",
+      "german": "Erfahrung",
+      "italian": "esperienza",
+      "example": "Ich habe zwei Jahre Erfahrung.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_11_16609",
+      "german": "Verantwortung",
+      "italian": "responsabilità",
+      "example": "Ich übernehme Verantwortung.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_12_43748",
+      "german": "Zusammenarbeit",
+      "italian": "collaborazione",
+      "example": "Die Zusammenarbeit im Team ist gut.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_13_74988",
+      "german": "Vertrag",
+      "italian": "contratto",
+      "example": "Ich unterschreibe den Vertrag.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_14_96556",
+      "german": "Kündigung",
+      "italian": "licenziamento",
+      "example": "Die Kündigung muss schriftlich sein.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_15_35391",
+      "german": "Gehalt",
+      "italian": "stipendio",
+      "example": "Das Gehalt ist fair.",
+      "article": "das",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_16_60452",
+      "german": "Arbeitszeit",
+      "italian": "orario di lavoro",
+      "example": "Die Arbeitszeit ist flexibel.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_17_89689",
+      "german": "Feierabend",
+      "italian": "fine giornata lavorativa",
+      "example": "Endlich Feierabend!",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_18_95494",
+      "german": "Überstunde",
+      "italian": "ora straordinaria",
+      "example": "Ich mache heute eine Überstunde.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_19_75409",
+      "german": "Kollege",
+      "italian": "collega",
+      "example": "Mein Kollege hilft mir.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_20_27122",
+      "german": "Kollegin",
+      "italian": "collega (f.)",
+      "example": "Meine Kollegin ist krank.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_21_8420",
+      "german": "Gesundheit",
+      "italian": "salute",
+      "example": "Gesundheit ist wichtig.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_22_9514",
+      "german": "Krankheit",
+      "italian": "malattia",
+      "example": "Die Krankheit dauert eine Woche.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_23_69254",
+      "german": "Schmerz",
+      "italian": "dolore",
+      "example": "Der Schmerz ist stark.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_24_89981",
+      "german": "Behandlung",
+      "italian": "trattamento",
+      "example": "Die Behandlung beginnt morgen.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_25_35257",
+      "german": "Befund",
+      "italian": "referto",
+      "example": "Der Befund ist da.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_26_39510",
+      "german": "Überweisung",
+      "italian": "impegnativa",
+      "example": "Ich brauche eine Überweisung.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_27_46796",
+      "german": "Krankenkasse",
+      "italian": "cassa mutua",
+      "example": "Die Krankenkasse zahlt die Therapie.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_28_69950",
+      "german": "Ordination",
+      "italian": "studio medico",
+      "example": "Die Ordination ist im Zentrum.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_29_46621",
+      "german": "Rezept",
+      "italian": "ricetta",
+      "example": "Der Arzt schreibt ein Rezept.",
+      "article": "das",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_30_98700",
+      "german": "Physiotherapie",
+      "italian": "fisioterapia",
+      "example": "Ich arbeite in der Physiotherapie.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_31_86785",
+      "german": "Bewegung",
+      "italian": "movimento",
+      "example": "Bewegung hilft gegen Schmerzen.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_32_63263",
+      "german": "Übung",
+      "italian": "esercizio",
+      "example": "Diese Übung machen Sie täglich.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_33_28335",
+      "german": "Patient",
+      "italian": "paziente",
+      "example": "Der Patient kommt um neun.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_34_97560",
+      "german": "Patientin",
+      "italian": "paziente (f.)",
+      "example": "Die Patientin hat Knieschmerzen.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_35_6633",
+      "german": "Anamnese",
+      "italian": "anamnesi",
+      "example": "Die Anamnese dauert zehn Minuten.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_36_63244",
+      "german": "Diagnose",
+      "italian": "diagnosi",
+      "example": "Die Diagnose ist klar.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_37_11362",
+      "german": "Therapieplan",
+      "italian": "piano terapeutico",
+      "example": "Wir erstellen einen Therapieplan.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_38_97667",
+      "german": "Kontrolle",
+      "italian": "controllo",
+      "example": "Die Kontrolle ist nächste Woche.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_39_61410",
+      "german": "Entlassung",
+      "italian": "dimissione",
+      "example": "Die Entlassung ist am Freitag.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_40_5905",
+      "german": "Zuweisung",
+      "italian": "invio",
+      "example": "Ich habe eine Zuweisung vom Arzt.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_41_6497",
+      "german": "Gesellschaft",
+      "italian": "società",
+      "example": "Die Gesellschaft verändert sich.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_42_90235",
+      "german": "Politik",
+      "italian": "politica",
+      "example": "Politik interessiert mich.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_43_88718",
+      "german": "Wahl",
+      "italian": "elezione",
+      "example": "Die Wahl ist im Herbst.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_44_74248",
+      "german": "Demokratie",
+      "italian": "democrazia",
+      "example": "Demokratie braucht Beteiligung.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_45_13132",
+      "german": "Meinung",
+      "italian": "opinione",
+      "example": "Meine Meinung ist anders.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_46_86633",
+      "german": "Diskussion",
+      "italian": "discussione",
+      "example": "Die Diskussion war lang.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_47_93287",
+      "german": "Vorteil",
+      "italian": "vantaggio",
+      "example": "Der Vorteil ist klar.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_48_97375",
+      "german": "Nachteil",
+      "italian": "svantaggio",
+      "example": "Der Nachteil ist der Preis.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_49_13996",
+      "german": "Lösung",
+      "italian": "soluzione",
+      "example": "Wir brauchen eine Lösung.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_50_91009",
+      "german": "Problem",
+      "italian": "problema",
+      "example": "Das Problem ist komplex.",
+      "article": "das",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_51_95094",
+      "german": "Regel",
+      "italian": "regola",
+      "example": "Diese Regel gilt für alle.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_52_23682",
+      "german": "Freiheit",
+      "italian": "libertà",
+      "example": "Freiheit ist wichtig.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_53_84033",
+      "german": "Gleichberechtigung",
+      "italian": "parità di diritti",
+      "example": "Gleichberechtigung ist ein Ziel.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_54_52272",
+      "german": "Integration",
+      "italian": "integrazione",
+      "example": "Integration braucht Zeit.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_55_95353",
+      "german": "Migration",
+      "italian": "migrazione",
+      "example": "Migration prägt die Gesellschaft.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_56_85445",
+      "german": "Umwelt",
+      "italian": "ambiente",
+      "example": "Wir müssen die Umwelt schützen.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_57_39916",
+      "german": "Klimawandel",
+      "italian": "cambiamento climatico",
+      "example": "Der Klimawandel ist real.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_58_99574",
+      "german": "Energie",
+      "italian": "energia",
+      "example": "Wir brauchen saubere Energie.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_59_90690",
+      "german": "Müll",
+      "italian": "rifiuti",
+      "example": "Der Müll wird getrennt.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_60_77879",
+      "german": "Recycling",
+      "italian": "riciclo",
+      "example": "Recycling spart Ressourcen.",
+      "article": "das",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_61_14693",
+      "german": "Verschmutzung",
+      "italian": "inquinamento",
+      "example": "Die Verschmutzung nimmt zu.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_62_70436",
+      "german": "Verkehr",
+      "italian": "traffico",
+      "example": "Der Verkehr ist laut.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_63_23135",
+      "german": "Nachhaltigkeit",
+      "italian": "sostenibilità",
+      "example": "Nachhaltigkeit ist ein Ziel.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_64_4714",
+      "german": "Ressource",
+      "italian": "risorsa",
+      "example": "Wasser ist eine Ressource.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_65_20738",
+      "german": "Naturschutz",
+      "italian": "tutela della natura",
+      "example": "Naturschutz beginnt vor Ort.",
+      "article": "der",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_66_16766",
+      "german": "Sonnenenergie",
+      "italian": "energia solare",
+      "example": "Sonnenenergie ist kostenlos.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_67_92445",
+      "german": "Windrad",
+      "italian": "pala eolica",
+      "example": "Das Windrad steht auf dem Hügel.",
+      "article": "das",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_68_82152",
+      "german": "Technologie",
+      "italian": "tecnologia",
+      "example": "Technologie entwickelt sich schnell.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_69_42707",
+      "german": "Digitalisierung",
+      "italian": "digitalizzazione",
+      "example": "Die Digitalisierung verändert die Arbeit.",
+      "article": "die",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_70_20644",
+      "german": "Internet",
+      "italian": "internet",
+      "example": "Das Internet ist langsam.",
+      "article": "das",
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 0,
+      "tags": [
+        "custom"
+      ],
+      "archived": false
+    },
+    {
+      "id": "custom_71_45767",
+      "german": "Daten",
+      "italian": "dati",
+      "example": "Die Daten sind sicher.",
+      "article": "die",
       "pronunciation": null,
       "level": "A1",
       "lesson": 0,
